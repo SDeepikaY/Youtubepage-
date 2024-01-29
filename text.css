@@ -1,0 +1,19 @@
+
+p{
+        font-family: Arial;
+    }
+    .title{
+        font-size: 18px;
+        font-weight:bold;
+        width: 300px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+
+    .stat{
+        color:rgb(101, 99, 99);
+        line-height: 10px;
+        font-size: 15px;
+        margin-top: 0px;
+
+}
